@@ -1,0 +1,29 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.28",
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^26.4.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "test.js"
+    ]
+  }
+}

@@ -1,0 +1,1126 @@
+{
+  "_id": "5f38160273cbb665a0e59a9f",
+  "sport": "horse racing",
+  "country": "NA",
+  "competition": "Newbury",
+  "eventName": "Newbury 13:50",
+  "eventStartTime": "2020-08-15T06:50:00.000Z",
+  "markets": [
+    {
+      "_id": "5f38160273cbb665a0e59aa0",
+      "marketName": "Winner",
+      "marketStartTime": "2020-08-15T06:50:00.000Z",
+      "runners": [
+        {
+          "_id": "5f38160273cbb665a0e59aa1",
+          "selectionId": 26541605696,
+          "runnerName": "Saint Lawrence",
+          "isNonRunner": false,
+          "odds": [
+            {
+              "_id": "5f38160273cbb665a0e59aa2",
+              "bookmaker": "Bet365",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aa3",
+              "bookmaker": "Skybet",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aa4",
+              "bookmaker": "William Hill",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aa5",
+              "bookmaker": "888Sport",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aa6",
+              "bookmaker": "Betfair Sportsbook",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aa7",
+              "bookmaker": "BetVictor",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aa8",
+              "bookmaker": "Paddy Power",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aa9",
+              "bookmaker": "UniBet",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aaa",
+              "bookmaker": "Betfred",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 3,
+              "placeTerms": "1/5",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aab",
+              "bookmaker": "BetWay",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aac",
+              "bookmaker": "10Bet",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aad",
+              "bookmaker": "BoyleSports",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aae",
+              "bookmaker": "VBet",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aaf",
+              "bookmaker": "GentingBet",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab0",
+              "bookmaker": "SportPesa",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab1",
+              "bookmaker": "SportNation",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab2",
+              "bookmaker": "SpreadEx",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            }
+          ]
+        },
+        {
+          "_id": "5f38160273cbb665a0e59ab3",
+          "selectionId": 26541605688,
+          "runnerName": "Dhahabi",
+          "isNonRunner": false,
+          "odds": [
+            {
+              "_id": "5f38160273cbb665a0e59ab4",
+              "bookmaker": "Bet365",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab5",
+              "bookmaker": "Skybet",
+              "backPriceDec": 2.2,
+              "backPriceFrac": "6/5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab6",
+              "bookmaker": "William Hill",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab7",
+              "bookmaker": "888Sport",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab8",
+              "bookmaker": "Betfair Sportsbook",
+              "backPriceDec": 2.2,
+              "backPriceFrac": "6/5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ab9",
+              "bookmaker": "BetVictor",
+              "backPriceDec": 2.2,
+              "backPriceFrac": "6/5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aba",
+              "bookmaker": "Paddy Power",
+              "backPriceDec": 2.38,
+              "backPriceFrac": "11/8",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59abb",
+              "bookmaker": "UniBet",
+              "backPriceDec": 2.2,
+              "backPriceFrac": "6/5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59abc",
+              "bookmaker": "Betfred",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 3,
+              "placeTerms": "1/5",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59abd",
+              "bookmaker": "BetWay",
+              "backPriceDec": 2.2,
+              "backPriceFrac": "6/5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59abe",
+              "bookmaker": "10Bet",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59abf",
+              "bookmaker": "BoyleSports",
+              "backPriceDec": 2.2,
+              "backPriceFrac": "6/5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac0",
+              "bookmaker": "VBet",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac1",
+              "bookmaker": "GentingBet",
+              "backPriceDec": 2.2,
+              "backPriceFrac": "6/5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac2",
+              "bookmaker": "SportPesa",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac3",
+              "bookmaker": "SportNation",
+              "backPriceDec": 2.25,
+              "backPriceFrac": "5/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac4",
+              "bookmaker": "SpreadEx",
+              "backPriceDec": 2.1,
+              "backPriceFrac": "11/10",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            }
+          ]
+        },
+        {
+          "_id": "5f38160273cbb665a0e59ac5",
+          "selectionId": 26541605690,
+          "runnerName": "Francesco Guardi",
+          "isNonRunner": false,
+          "odds": [
+            {
+              "_id": "5f38160273cbb665a0e59ac6",
+              "bookmaker": "Bet365",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac7",
+              "bookmaker": "Skybet",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac8",
+              "bookmaker": "William Hill",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ac9",
+              "bookmaker": "888Sport",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aca",
+              "bookmaker": "Betfair Sportsbook",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59acb",
+              "bookmaker": "BetVictor",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59acc",
+              "bookmaker": "Paddy Power",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59acd",
+              "bookmaker": "UniBet",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ace",
+              "bookmaker": "Betfred",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 3,
+              "placeTerms": "1/5",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59acf",
+              "bookmaker": "BetWay",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad0",
+              "bookmaker": "10Bet",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad1",
+              "bookmaker": "BoyleSports",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad2",
+              "bookmaker": "VBet",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad3",
+              "bookmaker": "GentingBet",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad4",
+              "bookmaker": "SportPesa",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad5",
+              "bookmaker": "SportNation",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad6",
+              "bookmaker": "SpreadEx",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            }
+          ]
+        },
+        {
+          "_id": "5f38160273cbb665a0e59ad7",
+          "selectionId": 26541605694,
+          "runnerName": "Jumby",
+          "isNonRunner": false,
+          "odds": [
+            {
+              "_id": "5f38160273cbb665a0e59ad8",
+              "bookmaker": "Bet365",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ad9",
+              "bookmaker": "Skybet",
+              "backPriceDec": 6,
+              "backPriceFrac": "5",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ada",
+              "bookmaker": "William Hill",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59adb",
+              "bookmaker": "888Sport",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59adc",
+              "bookmaker": "Betfair Sportsbook",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59add",
+              "bookmaker": "BetVictor",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ade",
+              "bookmaker": "Paddy Power",
+              "backPriceDec": 5,
+              "backPriceFrac": "4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59adf",
+              "bookmaker": "UniBet",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae0",
+              "bookmaker": "Betfred",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 3,
+              "placeTerms": "1/5",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae1",
+              "bookmaker": "BetWay",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae2",
+              "bookmaker": "10Bet",
+              "backPriceDec": 5,
+              "backPriceFrac": "4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae3",
+              "bookmaker": "BoyleSports",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae4",
+              "bookmaker": "VBet",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae5",
+              "bookmaker": "GentingBet",
+              "backPriceDec": 5.5,
+              "backPriceFrac": "9/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae6",
+              "bookmaker": "SportPesa",
+              "backPriceDec": 5,
+              "backPriceFrac": "4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae7",
+              "bookmaker": "SportNation",
+              "backPriceDec": 5,
+              "backPriceFrac": "4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59ae8",
+              "bookmaker": "SpreadEx",
+              "backPriceDec": 6.5,
+              "backPriceFrac": "11/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            }
+          ]
+        },
+        {
+          "_id": "5f38160273cbb665a0e59ae9",
+          "selectionId": 26541605687,
+          "runnerName": "William Bligh",
+          "isNonRunner": false,
+          "odds": [
+            {
+              "_id": "5f38160273cbb665a0e59aea",
+              "bookmaker": "Bet365",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aeb",
+              "bookmaker": "Skybet",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aec",
+              "bookmaker": "William Hill",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aed",
+              "bookmaker": "888Sport",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aee",
+              "bookmaker": "Betfair Sportsbook",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aef",
+              "bookmaker": "BetVictor",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af0",
+              "bookmaker": "Paddy Power",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af1",
+              "bookmaker": "UniBet",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af2",
+              "bookmaker": "Betfred",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 3,
+              "placeTerms": "1/5",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af3",
+              "bookmaker": "BetWay",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af4",
+              "bookmaker": "10Bet",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af5",
+              "bookmaker": "BoyleSports",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af6",
+              "bookmaker": "VBet",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af7",
+              "bookmaker": "GentingBet",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af8",
+              "bookmaker": "SportPesa",
+              "backPriceDec": 7.5,
+              "backPriceFrac": "13/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59af9",
+              "bookmaker": "SportNation",
+              "backPriceDec": 7,
+              "backPriceFrac": "6",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59afa",
+              "bookmaker": "SpreadEx",
+              "backPriceDec": 9,
+              "backPriceFrac": "8",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            }
+          ]
+        },
+        {
+          "_id": "5f38160273cbb665a0e59afb",
+          "selectionId": 26541605689,
+          "runnerName": "Choritzo",
+          "isNonRunner": false,
+          "odds": [
+            {
+              "_id": "5f38160273cbb665a0e59afc",
+              "bookmaker": "Bet365",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59afd",
+              "bookmaker": "Skybet",
+              "backPriceDec": 81,
+              "backPriceFrac": "80",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59afe",
+              "bookmaker": "William Hill",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59aff",
+              "bookmaker": "888Sport",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b00",
+              "bookmaker": "Betfair Sportsbook",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b01",
+              "bookmaker": "BetVictor",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b02",
+              "bookmaker": "Paddy Power",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b03",
+              "bookmaker": "UniBet",
+              "backPriceDec": 51,
+              "backPriceFrac": "50",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b04",
+              "bookmaker": "Betfred",
+              "backPriceDec": 51,
+              "backPriceFrac": "50",
+              "places": 3,
+              "placeTerms": "1/5",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b05",
+              "bookmaker": "BetWay",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b06",
+              "bookmaker": "10Bet",
+              "backPriceDec": 51,
+              "backPriceFrac": "50",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b07",
+              "bookmaker": "BoyleSports",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b08",
+              "bookmaker": "VBet",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b09",
+              "bookmaker": "GentingBet",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.220Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b0a",
+              "bookmaker": "SportPesa",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b0b",
+              "bookmaker": "SportNation",
+              "backPriceDec": 51,
+              "backPriceFrac": "50",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b0c",
+              "bookmaker": "SpreadEx",
+              "backPriceDec": 67,
+              "backPriceFrac": "66",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            }
+          ]
+        },
+        {
+          "_id": "5f38160273cbb665a0e59b0d",
+          "selectionId": 26541605692,
+          "runnerName": "Guru",
+          "isNonRunner": true,
+          "odds": [
+            {
+              "_id": "5f38160273cbb665a0e59b0e",
+              "bookmaker": "Bet365",
+              "backPriceDec": 3.25,
+              "backPriceFrac": "9/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b0f",
+              "bookmaker": "Skybet",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b10",
+              "bookmaker": "William Hill",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b11",
+              "bookmaker": "888Sport",
+              "backPriceDec": 3.25,
+              "backPriceFrac": "9/4",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b12",
+              "bookmaker": "Betfair Sportsbook",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b13",
+              "bookmaker": "Paddy Power",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b14",
+              "bookmaker": "UniBet",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b15",
+              "bookmaker": "Betfred",
+              "backPriceDec": 3.25,
+              "backPriceFrac": "9/4",
+              "places": 3,
+              "placeTerms": "1/5",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b16",
+              "bookmaker": "BetWay",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b17",
+              "bookmaker": "10Bet",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b18",
+              "bookmaker": "BoyleSports",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b19",
+              "bookmaker": "VBet",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b1a",
+              "bookmaker": "GentingBet",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b1b",
+              "bookmaker": "SportPesa",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            },
+            {
+              "_id": "5f38160273cbb665a0e59b1c",
+              "bookmaker": "SportNation",
+              "backPriceDec": 3.5,
+              "backPriceFrac": "5/2",
+              "places": 2,
+              "placeTerms": "1/4",
+              "timeStamp": "2020-08-15T17:06:10.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
